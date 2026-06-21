@@ -6,6 +6,14 @@ An event-driven **E-Commerce Order Management System** built with **Java 8, Spri
 
 ---
 
+## Demo
+
+End-to-end walkthrough of the running system — Eureka registry, then the Saga handling three flows (order confirmed, payment failure with stock compensation, and out-of-stock cancellation):
+
+![End-to-end saga walkthrough](docs/images/demo.gif)
+
+---
+
 ## Tech Stack
 
 | Area | Technology |
